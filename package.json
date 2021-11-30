@@ -1,0 +1,19 @@
+{
+  "name": "modulo_npm",
+  "version": "1.0.0",
+  "description": "creacion de modulo npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miguel4312/modulo_NPM.git"
+  },
+  "author": "miguel ayala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miguel4312/modulo_NPM/issues"
+  },
+  "homepage": "https://github.com/Miguel4312/modulo_NPM#readme"
+}
